@@ -11,12 +11,15 @@ Please make sure you already install Terraform on your local device before you t
 `$ git@github.com:fa-fajrin/terraform_aws_simple_module.git`
 
 #####2. Change directory to dev
+
 `$ cd terraform_aws_simple_module/dev`
 
 #####3. Initialize a working directory
+
 `$ terraform init`
 
 #####4. Check the planning infrastructure before you apply it
+
 `$ terraform plan`
 
 ###End
