@@ -21,3 +21,7 @@ Please make sure you already install Terraform on your local device before try t
 4. Check the planning infrastructure before you apply it
 
    `$ terraform plan`
+
+5. Build the infrastructure
+
+   `$ terraform apply`
