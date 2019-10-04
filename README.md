@@ -1,4 +1,4 @@
-# aws_simple_module
+# terraform_aws_simple_module
 
 This is only a simple case to use module in Terraform. 
 
